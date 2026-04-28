@@ -26,18 +26,25 @@ This repository is built for creators, marketers, founders, product teams, e-com
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
 ## Related Cliprise GitHub resources
 
-Use these for deeper prompt libraries and workflow guides.
+- [Awesome AI video generator prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts) - prompt systems for text-to-video and multi-step video workflows.
+- [Awesome image-to-video prompts](https://github.com/cliprise/awesome-image-to-video-prompts) - still-to-motion workflows, camera language, and source-frame discipline.
+- [Awesome AI video ads prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts) - paid social and performance video ad prompt structures.
+- [Awesome AI product video prompts](https://github.com/cliprise/awesome-ai-product-video-prompts) - demo, PDP, and e-commerce video oriented prompts.
+- [Awesome AI UGC video prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts) - creator-native patterns with compliance-conscious structure.
+<!-- CLIPRISE_LINKING_END -->
 
-- [Awesome AI Video Generator Prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts)
-- [Awesome Image-to-Video Prompts](https://github.com/cliprise/awesome-image-to-video-prompts)
-- [Awesome AI Video Ads Prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts)
-- [Awesome AI Product Video Prompts](https://github.com/cliprise/awesome-ai-product-video-prompts)
-- [Awesome Seedance 2 Prompts](https://github.com/cliprise/awesome-seedance-2-prompts)
+<!-- CLIPRISE_FURTHER_READING_START -->
+## Further reading from Cliprise
 
----
+- [Cinematic AI video with a multi-model workflow (Medium)](https://medium.com/@cliprise/best-ai-video-generator-2026-every-major-model-tested-ranked-and-explained-570b4c834c04)
+- [Best AI video generator: multi-model workflow vs single-engine tools (dev.to)](https://dev.to/cliprise/best-ai-video-generator-in-2026-multi-model-workflow-vs-single-engine-tools-3mgh)
+- [Cross-tier AI generation systems (Hashnode)](https://cliprise.hashnode.dev/architecting-cross-tier-ai-generation-systems-a-practical-framework-for-multi-model-video-and-image-workflows)
+- [Cliprise on Product Hunt](https://www.producthunt.com/products/cliprise)
 
+<!-- CLIPRISE_FURTHER_READING_END -->
 ## What this repository is
 
 This repository is a practical resource hub for users searching for:
